@@ -1,4 +1,4 @@
-#Stargate to home
+# Stargate to home
 
 In this assignment, I've designed a text-based adventure game utilizing the Python essentials learned during my course. 
 
