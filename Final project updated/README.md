@@ -1,4 +1,4 @@
-#Western Europe data analysis
+# Western Europe data analysis
 
 This is a team assignment done with 3 other classmates. 
 We conducted an analysis on western European countries based on world bank data.
